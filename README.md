@@ -25,4 +25,6 @@ On the other hand, taking a look at another month, March, we don’t see a clear
 
 
 ### Results
-Unfortunately, it doesn’t look like groundhogs are very good at predicting the weather. :frowning_face:	
+**Unfortunately, it doesn’t look like groundhogs are very good at predicting the weather. :frowning_face:	**
+
+Overall,  it might be slightly better than pure chance. 75–80% of the time our super-groundhog correctly predicted what March was going to be like. That sounds pretty good, but for 2008–2016, always picking “six more weeks of winter” would be correct 67% of the time, so it’s only 10–15% better than always picking “six more weeks of winter.” None of the models for the other months performed any better than pure chance.
