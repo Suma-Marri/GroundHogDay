@@ -25,4 +25,4 @@ On the other hand, taking a look at another month, March, we don’t see a clear
 
 
 ### Results
-Unfortunately, it doesn’t look like groundhogs are very good at predicting the weather.
+Unfortunately, it doesn’t look like groundhogs are very good at predicting the weather. :frowning_face:	
